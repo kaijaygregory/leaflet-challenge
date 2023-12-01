@@ -20,7 +20,7 @@ The United States Geological Survey (USGS) is dedicated to providing scientific 
 
 * Created a legend providing context for map data.
 
-
+![Earthquake Visual](https://github.com/kaijaygregory/leaflet-challenge/blob/main/Images/Earthquake%20Visual.png)
 
 ## __GitHub Pages__
 
